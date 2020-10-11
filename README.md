@@ -19,6 +19,6 @@
   [![brands-and-logotypes (1)](https://user-images.githubusercontent.com/38424188/87664531-71f26200-c776-11ea-9c7e-8df10843d7de.png)][2]
 
 
-[1]: http://www.linkedin.com/in/nouf-yahya-80b036159
+[1]: www.linkedin.com/in/noufyahyacodes
 [2]: https://www.instagram.com/nouf.codes/
 
