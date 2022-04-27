@@ -6,11 +6,10 @@
  <p align="center"> <img src="https://media.giphy.com/media/LRxOfdtweFtglMZuMd/giphy.gif" width="500"/></p>
  
     
-#### I am a data analyst wanna be, I have made personal projects, I scraped the web and cleansed the data using ETL methods like python libraries (numpy & pandas) 
-
-  ### Skills 
+#### I am a data analyst, I have made personal projects and projects at work, I scraped the web, explored and cleansed the data using ETL methods like python libraries (numpy & pandas) as well as cleaning them thru SQL, I have too many skills but am trying to focus on one at the moment which is sql 
+  ### Main Skills at the moment
   
- <img src="https://user-images.githubusercontent.com/38424188/156393994-af715511-d178-4bcd-b96a-eb07b4c39e3c.png" width="40"/>  <img src="https://user-images.githubusercontent.com/38424188/156393370-59d107d4-c7c4-40dd-98d4-7d1caee1fc74.png" width="40"/> <img src="https://user-images.githubusercontent.com/38424188/87692569-f22bbe00-c79c-11ea-9ccb-e9eff2ebc48a.png" width="40"/>    <img src="https://user-images.githubusercontent.com/38424188/87692570-f2c45480-c79c-11ea-9351-2fab50c62946.png" width="40"/>       <img src="https://user-images.githubusercontent.com/38424188/87692573-f3f58180-c79c-11ea-8c46-3d79b015ccc3.png" width="40"/>    <img src="https://user-images.githubusercontent.com/38424188/87692586-f526ae80-c79c-11ea-997c-d97a0837b0a7.png" width="40"/>     <img src="https://user-images.githubusercontent.com/38424188/95967340-33278300-0e1d-11eb-957a-d163debe4bcc.png" width="40" />
+ <img src="https://user-images.githubusercontent.com/38424188/156393994-af715511-d178-4bcd-b96a-eb07b4c39e3c.png" width="40"/>   <img src="https://user-images.githubusercontent.com/38424188/87692570-f2c45480-c79c-11ea-9351-2fab50c62946.png" width="40"/>  <img src="https://user-images.githubusercontent.com/38424188/165589590-04b484d6-1b08-452c-a4b6-56dc657d2f7e.png" width="40"/>       <img src="https://user-images.githubusercontent.com/38424188/87692573-f3f58180-c79c-11ea-8c46-3d79b015ccc3.png" width="40"/>   
 </p>
 
 ##### Made with ❤️ by [Nouf Yahya](https://github.com/noufyahya)
