@@ -4,7 +4,7 @@
 
 
 
-#### I am a data analyst, I have made personal projects and projects at work, I scraped the web, explored and cleansed the data using ETL methods like python libraries (numpy & pandas) as well as cleaning them thru SQL
+#### I am a data analyst, I like SQL, a lot I have 3+ years of experiance with SQL and others, I recently got into supply chain hope it's the last time i switch.
  
 ##### Made with ❤️ by [Nouf Yahya](https://github.com/noufyahya)
 
