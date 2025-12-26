@@ -4,11 +4,10 @@
 
 
 
-#### I am a data analyst, I like SQL, a lot I have 3+ years of experiance with SQL and others, I recently got into supply chain hope it's the last time i switch.
+#### I am an analyst, I like SQL as well as benfiting the customer, I have 3+ years of experiance with SQL.
  
-##### Made with ❤️ by [Nouf Yahya](https://github.com/noufyahya)
 
-### Connect with me 😃 
+### You can connect with me thru email 😃 
 ##### Gmail : noufyahya1@gmail.com
 
    [![linkedin](https://user-images.githubusercontent.com/38424188/87664712-ca296400-c776-11ea-80b6-464a29c86aea.png)][1] 
