@@ -1,19 +1,33 @@
-# Hello World 👋🏻😃
+# Hi there 👋
 
-  
+I'm Nouf, a Computer Science graduate with experience in **data analysis, backend systems, and SQL-based insights**.
 
+I enjoy working at the intersection of **data, business impact, and technical systems** — analyzing data to understand what drives **revenue, profitability, and customer value**.
 
+## 🔧 What I Work With
 
-#### I am an analyst, I like SQL as well as benfiting the customer, I have 3+ years of experiance with SQL.
- 
+* SQL (data analysis & querying)
+* Java & backend APIs
+* Data exploration and business insights
+* REST APIs and system integrations
 
-### You can connect with me thru email 😃 
-##### Gmail : noufyahya1@gmail.com
+## 📊 Current Focus
 
-   [![linkedin](https://user-images.githubusercontent.com/38424188/87664712-ca296400-c776-11ea-80b6-464a29c86aea.png)][1] 
-  
+I’m currently building projects focused on:
 
+* Revenue and profitability analysis
+* Business data exploration
+* Backend systems and APIs
 
-[1]:  http://www.linkedin.com/in/noufyahyacodes/
+## 🌱 What I'm Learning
+
+* Advanced SQL analytics
+* Backend architecture
+* Data-driven decision making
+
+## 📫 Connect With Me
+
+Email: [noufyahya1@gmail.com](mailto:noufyahya1@gmail.com)
+LinkedIn: http://www.linkedin.com/in/noufyahyacodes/
 
 
